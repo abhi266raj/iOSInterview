@@ -2,6 +2,6 @@
 Interview Question for Swift and iOS 
 
 
-- This repo contains common ios interview quesiton and common things we encounter in swift needed for revision for interview
-- The solution and explaination can be made avalaible on request.
-- More question will be added to cover all topics of ios/swift
+- This repo contains common ios interview questions and common problem we encounter in ios development 
+- The solution and explaination can be made available on request.
+- Questions are being added slowly and gradually
