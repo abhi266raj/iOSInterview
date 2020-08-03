@@ -1,10 +1,10 @@
 ### GCD Question Bank
 
-Answer all these in all question  
+Answer all these in 
 	- Will this code compile  
 	- Will the code have deadlock  
 	- Will this code have race condtion
-	- Will the answer change on change qos parameters  
+	- Will the answer change on change qos parameters  (if applicable)
 
 1. Race condition  
 
