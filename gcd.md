@@ -40,3 +40,7 @@ DispatchQueue.main.async {
 	print("C")
 }
 ```
+
+3. Write a thread safe linked list read and delete function. Condition: Multiple read can go on linked list but but multiple write cannot. When read in going on write cannot go on and when write is going on read cannot.
+
+
