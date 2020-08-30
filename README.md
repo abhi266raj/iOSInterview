@@ -1,5 +1,5 @@
-# iOSInterview
-Interview Question for Swift and iOS 
+# iOS Interview Questions
+Interview Question for iOS
 
 
 - This repo contains common ios interview questions and common problem we encounter in ios development 
