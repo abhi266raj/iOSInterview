@@ -14,7 +14,7 @@ class Manager {
         isEditing = true
        
         guard FileManager.default.fileExists(atPath: path) else {
-             isEditing = true
+             isEditing = false
             throw EditingError.notFound
         }
         
