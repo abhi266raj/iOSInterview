@@ -68,3 +68,7 @@ func printData() {
 ```
 
 5. 
+-  There are three async task A,B,C. C can start only when both A and B are finished. Write code for this
+- If both A, B,C are completed in 3 second show successMessage else show errorMessage.
+
+6. 
